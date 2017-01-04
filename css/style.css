@@ -195,9 +195,9 @@ h1 {
 /*** Small Devices ***/
 
 @media (max-width: 767px) {
-	#box1 {width: 95%; float: right;}
-	#box2 {width: 95%; float: right;}
-	#box3 {width: 95%; float: right;}
+	#box1 {width: 95%;}
+	#box2 {width: 95%;}
+	#box3 {width: 95%;}
 	}
 
 }
