@@ -21,7 +21,7 @@ body {
 
 h1 {
 	text-align: center;
-	color: indigo;
+	color: violet;
 	font-size: 1.75em;
 	position: relative center;
 	}
@@ -172,23 +172,22 @@ h1 {
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-	#box1 {width: 49.5%;
+	#box1 {width: 49%;
 			margin-left: .5%;
 			margin-right: 3px;
 			float: left;}
 
 	#p1 {min-height: 130px;}
 
-	#box2 {width: 49.5%;
+	#box2 {width: 49%;
 			margin-right: .5%;
 			float: left;}
 
 	#p2 {min-height: 130px;}
 
-	#box3 {width: 99%;	
+	#box3 {width: 100%;	
 			height: auto;
-			margin-left: .5%;
-			margin-right: .5%;}
+			float: right;}
 
 }
 
