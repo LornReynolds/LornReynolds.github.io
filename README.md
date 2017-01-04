@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head>
 <title>Module 2 Solution</title>
