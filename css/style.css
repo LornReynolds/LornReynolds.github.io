@@ -20,8 +20,7 @@ body {
 
 h1 {
 	text-align: center;
-	vertical-align: middle;
-	color: blue;
+	color: Green;
 	font-size: 1.75em;
 	position: relative center;
 	margin-left: 10px;
@@ -106,7 +105,7 @@ h1 {
 	}
 
 #box1 {
-	text-align: left;
+	text-align: justify;
 	float: left;
 	background-color: #EE9922;
 	padding: 0px 0px 0px 5px;
@@ -118,7 +117,7 @@ h1 {
 	}
 
 #box2 {
-	text-align: left;
+	text-align: justify;
 	float: left;
 	background-color: #EE9922;
 	padding: 0px 0px 0px 5px;
@@ -129,7 +128,7 @@ h1 {
 	}
 
 #box3 {
-	text-align: left;
+	text-align: justify;
 	float: left;
 	background-color: #EE9922;
 	padding: 0px 0px 0px 5px;
@@ -152,7 +151,8 @@ h1 {
 
 	#box2 {width: 32%;
 			min-height: auto;
-			margin-left: .5%;
+			margin-left: 5px;
+			margin-right: .5%;
 			float: left;}
 
 	#p2 {min-height: 147px;}
@@ -161,6 +161,7 @@ h1 {
 			height: auto;
 			float: left;
 			margin-left: .5%;
+			margin-right: .5%;
 			}
 
 	#p3 {min-height: 147px;}
@@ -172,21 +173,23 @@ h1 {
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-	#box1 {width: 48.5%;
-			margin-left: 1px;
-			margin-right: 5px;
+	#box1 {width: auto;
+			margin-left: .5%;
+			margin-right: 3 px;
 			float: left;}
 
 	#p1 {min-height: 130px;}
 
-	#box2 {width: 48.5%;
-			margin-right: 1px;
+	#box2 {width: auto;
+			margin-right: .5%;
 			float: right;}
 
 	#p2 {min-height: 130px;}
 
 	#box3 {width: 99%;	
-			height: auto;}
+			height: auto;
+			margin-left: .5%;
+			margin-right: .5%;}
 
 }
 
@@ -194,8 +197,8 @@ h1 {
 
 @media (max-width: 767px) {
 	
-	#box1 {width: 95%; float: right; margin-left: 1%}
-	#box2 {width: 95%; float: right;}
+	#box1 {width: 95%; float: right; margin-left: 1%;}
+	#box2 {width: 95%; float: right; margin-left: 1%;}
 	#box3 {width: 95%; float: right; margin-left: 1%;}
 	}
 
