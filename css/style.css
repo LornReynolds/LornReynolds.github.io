@@ -4,7 +4,7 @@
 html {
 	margin: auto;
 	padding: 5px;
-	font-family: Cooper;
+	font-family: forte;
 	}
 
 box-sizing {border;}
@@ -20,10 +20,9 @@ body {
 
 h1 {
 	text-align: center;
-	color: Green;
+	color: purple;
 	font-size: 1.75em;
 	position: relative center;
-	margin-left: 10px;
 	}
 
 #p1 {
@@ -173,14 +172,14 @@ h1 {
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-	#box1 {width: auto;
+	#box1 {width: 48.5%;
 			margin-left: .5%;
 			margin-right: 3 px;
 			float: left;}
 
 	#p1 {min-height: 130px;}
 
-	#box2 {width: auto;
+	#box2 {width: 48.5%;
 			margin-right: .5%;
 			float: right;}
 
