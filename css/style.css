@@ -2,7 +2,7 @@
 /* Basic Elements */
 
 html {
-	margin: 5%;
+	margin: auto;
 	padding: 5px;
 	font-family: Cooper;
 	}
@@ -11,7 +11,7 @@ box-sizing {border;}
 
 body {
 	color: black;
-	width: 90%;
+	width: auto;
 	padding-top: 25px;
 	padding-right: 5px;
 	text-align: justify;
@@ -21,7 +21,7 @@ body {
 h1 {
 	text-align: center;
 	vertical-align: middle;
-	color: orange;
+	color: blue;
 	font-size: 1.75em;
 	position: relative center;
 	margin-left: 10px;
@@ -33,7 +33,6 @@ h1 {
 	padding-right: 5px;
 	padding-left: 5px;
 	height: auto;
-	font: Courier;
 }
 
 #p2 {
@@ -42,7 +41,6 @@ h1 {
 	padding-right: 5px;
 	padding-left: 5px;
 	height: auto;
-	font: Impact;
 }
 
 #p3 {
@@ -51,7 +49,6 @@ h1 {
 	padding-right: 5px;
 	padding-left: 5px;
 	height: auto;
-	font: impact;
 
 }
 
@@ -82,6 +79,7 @@ h1 {
 	width: 100px;
 	border-bottom: 1px solid black;
 	border-left: 1px solid black;
+	left-padding: 0;
 	text-align: center;
 	vertical-align: middle;
 	font-size: 1.25em;
@@ -195,12 +193,12 @@ h1 {
 /*** Small Devices ***/
 
 @media (max-width: 767px) {
-	#box1 {width: 95%;}
-	#box2 {width: 95%;}
-	#box3 {width: 95%;}
+	
+	#box1 {width: 95%; float: right; margin-left: 1%}
+	#box2 {width: 95%; float: right;}
+	#box3 {width: 95%; float: right; margin-left: 1%;}
 	}
 
 }
 
 </style>
-</html>
