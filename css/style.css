@@ -2,16 +2,16 @@
 /* Basic Elements */
 
 html {
-	margin: auto;
+	margin: 5%;
 	padding: 5px;
-	font: Script;
+	font-family: Cooper;
 	}
 
 box-sizing {border;}
 
 body {
 	color: black;
-	width: auto;
+	width: 90%;
 	padding-top: 25px;
 	padding-right: 5px;
 	text-align: justify;
@@ -33,6 +33,7 @@ h1 {
 	padding-right: 5px;
 	padding-left: 5px;
 	height: auto;
+	font: Courier;
 }
 
 #p2 {
@@ -41,6 +42,7 @@ h1 {
 	padding-right: 5px;
 	padding-left: 5px;
 	height: auto;
+	font: Impact;
 }
 
 #p3 {
@@ -49,6 +51,7 @@ h1 {
 	padding-right: 5px;
 	padding-left: 5px;
 	height: auto;
+	font: impact;
 
 }
 
