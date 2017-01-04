@@ -21,7 +21,7 @@ body {
 
 h1 {
 	text-align: center;
-	color: red;
+	color: yellow;
 	font-size: 1.75em;
 	position: relative center;
 	}
@@ -152,7 +152,6 @@ h1 {
 	#box2 {width: 32%;
 			min-height: auto;
 			margin-left: 5px;
-			margin-right: .5%;
 			float: left;}
 
 	#p2 {min-height: 147px;}
@@ -160,7 +159,7 @@ h1 {
 	#box3 {width: 32%;
 			height: auto;
 			float: left;
-			margin-left: .5%;
+			margin-left: 5px;
 			margin-right: .5%;
 			}
 
@@ -197,7 +196,7 @@ h1 {
 
 @media (max-width: 767px) {
 	
-	#box1 {width: 95%; float: right; margin-left: 5px;  margin-right:1%;}
+	#box1 {width: 95%; float: right; margin-left: 5px; margin-right:1%;}
 	#box2 {width: 95%; float: right; margin-left: 5px; margin-right:1%;}
 	#box3 {width: 95%; float: right; margin-left: 5px; margin-right:1%;}
 	}
