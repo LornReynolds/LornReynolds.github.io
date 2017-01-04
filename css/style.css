@@ -197,8 +197,8 @@ h1 {
 @media (max-width: 767px) {
 	
 	#box1 {width: 95%; float: right; margin-left: 1%;}
-	#box2 {width: 95%; float: right; margin-left: 1%;}
-	#box3 {width: 95%; float: right; margin-left: 1%;}
+	#box2 {width: 95%; float: right; margin-left: 5px;}
+	#box3 {width: 95%; float: right; margin-left: 5px; margin-right:1%;}
 	}
 
 }
