@@ -14,7 +14,7 @@
 <body>
 		<div id="box1">
 
-		<span id="ht1">Chicken</span>
+		<div id="ht1">Chicken</div>
 
 			<p id="p1">We only use free-range chickens! lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
@@ -22,14 +22,14 @@
 
 	<div id="box2">
 	
-		<span id="ht2">Beef</span>
+		<div id="ht2">Beef</div>
 
 			<p id="p2">We only use grass-fed beef! lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 	</div>
 
 	<div id="box3">
 
-		<span id="ht3">Sushi</span>
+		<div id="ht3">Sushi</div>
 
 			<p id="p3">Our sushi is caught to order! lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 	</div>
