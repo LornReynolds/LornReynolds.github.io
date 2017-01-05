@@ -6,9 +6,8 @@ html {
 	padding: 5px;
 	font-family: arial;
 	display: block;
+	box-sizing: border-box;
 	}
-
-box-sizing {border;}
 
 body {
 	color: black;
