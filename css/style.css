@@ -21,7 +21,7 @@ body {
 
 h1 {
 	text-align: center;
-	color: green;
+	color: aqua;
 	font-size: 1.75em;
 	position: relative center;
 	}
@@ -185,7 +185,7 @@ h1 {
 
 	#p2 {min-height: 130px;}
 
-	#box3 {width: 97%;	
+	#box3 {width: 98.5%;	
 			height: auto;
 			float: right;
 			margin-right: 1.5%}
