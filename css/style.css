@@ -21,7 +21,7 @@ body {
 
 h1 {
 	text-align: center;
-	color: indigo;
+	color: aqua;
 	font-size: 1.75em;
 	position: relative center;
 	}
@@ -193,9 +193,10 @@ h1 {
 }
 
 /*** Small Devices ***/
-@viewport {width: 90%;}
 
 @media (max-width: 767px) {
+	@viewport {width: 90%;}
+
 	
 	#box1 {width: 99%; float: right; margin-left: 5px; margin-right:1%;}
 	#box2 {width: 99%; float: right; margin-left: 5px; margin-right:1%;}
