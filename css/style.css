@@ -4,9 +4,10 @@
 html {
 	margin: auto;
 	padding: 5px;
-	font-family: arial;
+	Font-Family: Helvetica;
 	display: block;
 	box-sizing: border-box;
+	width: auto;
 	}
 
 body {
