@@ -193,6 +193,7 @@ h1 {
 }
 
 /*** Small Devices ***/
+@viewport {width: auto}
 
 @media (max-width: 767px) {
 	
