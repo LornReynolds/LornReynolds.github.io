@@ -2,7 +2,6 @@
 
 /*** Base Style ***/ 
 
-
 * { 
 box-sizing: border-box;
 } 
@@ -11,11 +10,11 @@ body {
 	color: black;
 	width: 100%;
 	padding-top: 5px;
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
 	text-align: justify;
-	margin-right: 5px;
-	margin-left: 5px;
+	margin-right: 0px;
+	margin-left: 0px;
 
 }
 
@@ -106,7 +105,7 @@ color: black;
 
 
 .row { 
-width: 100%;
+width: 99%;
 } 
 
 /*** Large Devices ***/ 
@@ -116,6 +115,7 @@ width: 100%;
 
 float: left;
 border: 1px solid black; 
+margin-right: 1px;
 background-color: yellow;
 min-height: 220px;
 } 
@@ -130,7 +130,7 @@ width: 16.66%;
 width: 25%; 
 } 
 .col-lg-4 { 
-width: 33%; margin: 1px;
+width: 33%;
 } 
 .col-lg-5 { 
 width: 41.66%; 
