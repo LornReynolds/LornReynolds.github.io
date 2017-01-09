@@ -29,7 +29,7 @@ h1 {
 
 p { 
 background-color: yellow; 
-width: 99%; 
+width: 90%; 
 height: auto; 
 margin-right: auto; 
 margin-left: auto; 
@@ -103,11 +103,10 @@ color: black;
 
 /*** Responsive Framework ***/ 
 
-.row { 
-width: 100%;
-}
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+.row { 
+width: 99%;
+} 
 
 /*** Large Devices ***/ 
 
@@ -262,4 +261,4 @@ width: 100%;
 } 
 } 
 
-</style>
+</style> 
