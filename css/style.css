@@ -103,11 +103,11 @@ color: black;
 
 /*** Responsive Framework ***/ 
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
 .row { 
 width: 99%;
-} 
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 /*** Large Devices ***/ 
 
